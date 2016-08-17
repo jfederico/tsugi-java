@@ -121,7 +121,7 @@
         <configuration>
           <systemPropertyVariables>
             <tsugi.unit.test>true</tsugi.unit.test>
-            <tsugi.datasource.url>jdbc:mysql://localhost:8889/tsugi</tsugi.datasource.url>
+            <tsugi.datasource.url>jdbc:mysql://localhost:3306/tsugi</tsugi.datasource.url>
             <tsugi.datasource.username>ltiuser</tsugi.datasource.username>
             <tsugi.datasource.password>ltipassword</tsugi.datasource.password>
             <tsugi.datasource.driverClassName>com.mysql.jdbc.Driver</tsugi.datasource.driverClassName>
